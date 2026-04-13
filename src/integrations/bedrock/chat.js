@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { ChatBedrockConverse } from "@langchain/aws";
 import { defaultProvider } from "@aws-sdk/credential-provider-node";
 

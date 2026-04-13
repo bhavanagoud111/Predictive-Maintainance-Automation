@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import getMongoClientPromise from "./client.js";
 
 /**

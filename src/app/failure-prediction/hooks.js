@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { useState, useRef, useCallback, useEffect } from "react";
 import {
   getInitialMachineData,

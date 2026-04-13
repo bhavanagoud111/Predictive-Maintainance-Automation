@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 "use client";
 import { useState, useEffect } from "react";
 import { streamAgentEvents } from "@/lib/stream/agent";

@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Alerts API
 
 export async function fetchAlerts() {

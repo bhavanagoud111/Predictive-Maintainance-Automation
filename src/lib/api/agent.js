@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { streamAgentEvents } from "@/lib/stream/agent";
 
 // Agent API (for /api/agent/* and /api/chat endpoints)

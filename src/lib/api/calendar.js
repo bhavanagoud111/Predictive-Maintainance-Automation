@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Fetch and transform production calendar events for FullCalendar
 
 export async function fetchProductionCalendarEvents() {

@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { useState, useCallback, useMemo, useRef, useEffect } from "react";
 
 // Helper to group tool_start/tool_end and extract tool info

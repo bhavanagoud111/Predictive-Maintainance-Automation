@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Agent registry for multi-agent support
 import { createAgentGraph as createTestAgentGraph } from "./test/graph.js";
 import { createAgentGraph as createSupervisorAgentGraph } from "./supervisor/graph.js";

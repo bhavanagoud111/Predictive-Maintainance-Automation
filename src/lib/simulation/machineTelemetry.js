@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Machine telemetry simulation logic (not React)
 // Returns initial machine data, updates telemetry, and simulates values
 

@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { useCallback, useMemo, useState, useRef, useEffect } from "react";
 
 // Process logs for display: chronological, tool_start shows loading, tool_end shows check, only reset on new agent call

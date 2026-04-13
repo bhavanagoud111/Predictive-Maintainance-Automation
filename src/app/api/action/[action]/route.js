@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import getMongoClientPromise from "@/integrations/mongodb/client.js";
 import { NextResponse } from "next/server";
 import { EJSON } from "bson";

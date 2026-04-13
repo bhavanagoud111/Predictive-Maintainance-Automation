@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Failure detection logic (not React)
 // Checks telemetry and generates alert if needed
 

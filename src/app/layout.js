@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import "./globals.css";
 import Navbar from "@/components/navBar/NavBar";
 

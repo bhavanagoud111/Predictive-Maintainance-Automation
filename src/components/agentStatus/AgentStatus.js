@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import React from "react";
 import Image from "next/image";
 import Modal from "@leafygreen-ui/modal";

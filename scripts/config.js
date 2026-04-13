@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Example configuration for embedding and vector search indexing
 const config = [
   {

@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import "dotenv/config";
 import path from "path";
 import config from "./config.js";

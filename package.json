@@ -1,8 +1,17 @@
 {
-  "name": "agentic-predictive-maintenance",
+  "name": "predictive-maintainance-automation",
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "author": "Bhavana Goud <https://github.com/bhavanagoud111>",
+  "homepage": "https://github.com/bhavanagoud111/Predictive-Maintainance-Automation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhavanagoud111/Predictive-Maintainance-Automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhavanagoud111/Predictive-Maintainance-Automation/issues"
+  },
   "scripts": {
     "dev": "next dev --turbopack --port 8080",
     "build": "next build",

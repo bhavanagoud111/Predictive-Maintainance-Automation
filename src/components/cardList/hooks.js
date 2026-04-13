@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { useState, useMemo, useCallback, useEffect } from "react";
 
 export function useCardList(

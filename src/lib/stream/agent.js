@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Streaming NDJSON parser for agent events
 // Usage: for await (const evt of streamAgentEvents(response.body)) { ... }
 

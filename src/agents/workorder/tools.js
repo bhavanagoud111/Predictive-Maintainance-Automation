@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import { tool } from "@langchain/core/tools";
 import { vectorSearch } from "@/integrations/mongodb/vectorSearch";
 import getMongoClientPromise from "@/integrations/mongodb/client";

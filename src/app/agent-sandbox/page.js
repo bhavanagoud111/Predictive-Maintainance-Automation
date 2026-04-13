@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 "use client";
 import ChatInput from "@/components/chatInput/ChatInput";
 import AgentLogs from "@/components/agentLogs/AgentLogs";

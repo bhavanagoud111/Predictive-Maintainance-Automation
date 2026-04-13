@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import "dotenv/config";
 import fs from "fs/promises";
 import path from "path";

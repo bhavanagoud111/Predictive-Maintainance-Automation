@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Telemetry API
 
 export async function persistTelemetry(telemetry) {

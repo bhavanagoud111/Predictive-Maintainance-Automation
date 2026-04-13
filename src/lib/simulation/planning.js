@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 // Check inventory availability and lead times for a list of items
 export function inventoryAvailabilityCheck(items, docs) {
   const unavailable = [];

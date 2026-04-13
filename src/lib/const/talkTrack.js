@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 export const TALK_TRACK = [
   {
     heading: "Instructions and Talk Track",

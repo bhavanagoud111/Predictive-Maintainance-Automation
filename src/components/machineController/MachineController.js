@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import React from "react";
 import Slider from "@mui/material/Slider";
 import Icon from "@leafygreen-ui/icon";

@@ -1,3 +1,4 @@
+// Author: Bhavana Goud | github.com/bhavanagoud111
 import fs from "node:fs";
 
 const rawData = fs.readFileSync("third-party-licenses.json", "utf-8");
