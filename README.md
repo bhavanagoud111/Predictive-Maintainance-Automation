@@ -1,7 +1,5 @@
 # Agentic Predictive Maintenance System
 
-> **Author:** Bhavana Goud — [github.com/bhavanagoud111](https://github.com/bhavanagoud111)
-> **Repository:** [https://github.com/bhavanagoud111/Predictive-Maintainance-Automation](https://github.com/bhavanagoud111/Predictive-Maintainance-Automation)
 
 Manufacturers are moving beyond traditional predictive maintenance—it's not just about forecasting failures, but about acting on issues instantly and autonomously. This project demonstrates how agentic AI, orchestrated by LangGraph.js and powered by MongoDB Atlas and AWS Bedrock, enables multi-agent systems that detect problems and coordinate rapid, intelligent responses across the shop floor.
 
@@ -160,15 +158,4 @@ This demo is designed to be flexible and extensible. Here are some ways you can 
 
 This project is based on the original work by **MongoDB Industry Solutions**:
 
-> **Original Repository:** [mongodb-industry-solutions/multiagent-predictive-maintenance](https://github.com/mongodb-industry-solutions/multiagent-predictive-maintenance)
-> **Original Author/Org:** MongoDB, Inc.
-> **License:** MIT — Copyright (c) 2025 MongoDB
 
-This fork has been adapted and extended by **Bhavana Goud** for personal use and learning.
-Technologies used include [MongoDB Atlas](https://www.mongodb.com/atlas), [LangGraph.js](https://github.com/langchain-ai/langgraphjs), and [AWS Bedrock](https://aws.amazon.com/bedrock/).
-
----
-
-Built and maintained by **Bhavana Goud** — [github.com/bhavanagoud111](https://github.com/bhavanagoud111)
-
-Enjoy building the future of modern manufacturing!
